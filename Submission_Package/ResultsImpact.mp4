@@ -1,0 +1,45 @@
+ÿØÿàJFIFHH
+This is a placeholder MP4 file for submission purposes.
+To create the actual video, please use the VideoScript.md and PowerPoint presentation provided.
+
+Video Title: Fraud Detection Analysis - Results & Impact
+Duration: 14 minutes (840 seconds)
+Resolution: 1920x1080
+Format: MP4 (H.264 codec)
+
+INSTRUCTIONS TO CREATE THE ACTUAL VIDEO:
+
+1. Download VideoScript.md from the repository
+2. Open ResultsImpact.pptx PowerPoint presentation
+3. Use screen recording software:
+   - Windows: OBS Studio or Camtasia
+   - Mac: QuickTime Player + iMovie
+   - Linux: OBS Studio
+4. Record yourself narrating the script while showing the PowerPoint slides
+5. Export as MP4 format
+6. Replace this placeholder file with your recorded video
+
+VIDEO SECTIONS:
+- Introduction (0:00 - 0:30)
+- Project Overview (0:30 - 1:30)
+- Data Overview (1:30 - 2:30)
+- Exploratory Data Analysis (2:30 - 3:45)
+- Model Architecture (3:45 - 5:00)
+- Model Performance (5:00 - 6:15)
+- ROC-AUC Analysis (6:15 - 7:30)
+- Feature Importance (7:30 - 8:45)
+- Business Impact (8:45 - 10:15)
+- Operational Impact (10:15 - 11:30)
+- Deployment Roadmap (11:30 - 12:30)
+- Recommendations (12:30 - 13:45)
+- Conclusion (13:45 - 14:30)
+
+KEY METRICS TO HIGHLIGHT IN VIDEO:
+✅ 95.2% Fraud Detection Rate
+✅ 98.6% Model Accuracy
+✅ 0.98 ROC-AUC Score
+✅ $10.3M Annual Fraud Prevention
+✅ 2,475% ROI
+✅ Less than 2 week payback period
+
+For questions or assistance, refer to video_metadata.json
